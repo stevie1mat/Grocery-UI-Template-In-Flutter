@@ -1,9 +1,13 @@
 # Grocery UI Template In Flutter For Android & iOS
 
-Packages:
+# Packages:
+dotted_line
+
+google_fonts
 
 # Commands
 flutter pub get
+
 flutter run
 
 ## Screenshots
