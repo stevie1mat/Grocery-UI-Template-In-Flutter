@@ -1,16 +1,13 @@
-# tasklist
+# Grocery UI Template In Flutter For Android & iOS
 
-A new Flutter project.
+Packages:
 
-## Getting Started
+# Commands
+flutter pub get
+flutter run
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/stevie1mat/Grocery-UI-Template-In-Flutter/blob/main/1.jpeg" width="300" height="600">
+<img src="https://github.com/stevie1mat/Grocery-UI-Template-In-Flutter/blob/main/2.jpeg" width="300" height="600">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
